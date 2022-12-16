@@ -2,10 +2,11 @@
 
 Materials for use in 2022 Data mining workshop
 
-Follow the links below for the necessary datasets. Each of the above datasets are split 80:20 Train:Test:
+Follow the link below for the required dataset. The datasets is split 80:20 Train:Test and has a normalised version:
 
-- NSL-KDD Data 
+- NSL-KDD Dataset 
 
-- NSL-KDD Dataset (Normalised)
+This folder also contains two Jupyter notebooks as follows:
 
-`explore_dataset.ipynb` Jupyter notebook for exploring and preprocessing the dataset
+`explore_dataset.ipynb` for exploring and preprocessing the dataset
+`detection.ipynb` for reviewing a range of ML algorithms: RandomForest, DecisionTree, SVM and MLP  
