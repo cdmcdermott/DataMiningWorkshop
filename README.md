@@ -2,10 +2,10 @@
 
 Materials for use in 2022 Data mining workshop
 
-Follow the links below for the necessary datasets:
+Follow the links below for the necessary datasets. Each of the above datasets are split 80:20 Train:Test:
 
 - NSL-KDD Data 
 
 - NSL-KDD Dataset (Normalised)
 
-Each of the above datasets are split 80/20 Train/Test
+`explore_dataset.ipynb` Jupyter notebook for exploring and preprocessing the dataset
